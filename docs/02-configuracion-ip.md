@@ -75,3 +75,6 @@ el siguiente comando desde la consola:
 
 cmd
 ipconfig
+
+📸 **Captura:**  
+![Configuración de IP estática](images/configuracion-ip/IPCONFIG.png)
