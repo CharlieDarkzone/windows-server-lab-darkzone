@@ -46,12 +46,6 @@ del servidor.
 Una vez reiniciado el servidor, se accede a la configuración de red para definir
 manualmente los parámetros IPv4, ya que un Controlador de Dominio **no debe utilizar DHCP**.
 
-### Ruta de acceso
-
-
-📸 **Captura:**  
-![Acceso a configuración de red](images/configuracion-ip/estructuraIP.png)
-
 ---
 
 ## 📡 Asignación de IP estática
