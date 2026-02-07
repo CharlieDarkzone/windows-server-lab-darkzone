@@ -1,0 +1,43 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.6 Chrome/140.0.7339.249 Electron/38.8.0 Safari/537.36" version="29.3.6">
+  <diagram name="Página-1" id="XryOIcZ9lRX1yW7vGBDt">
+    <mxGraphModel dx="1426" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7IKJJFk594ozSRAVRNgZ-9" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="420" width="420" x="140" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7IKJJFk594ozSRAVRNgZ-1" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.servers.file_server;" value="" vertex="1">
+          <mxGeometry height="57.99999999999999" width="43" x="190" y="206" as="geometry" />
+        </mxCell>
+        <mxCell id="7IKJJFk594ozSRAVRNgZ-2" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc;" value="" vertex="1">
+          <mxGeometry height="70" width="78" x="430" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="7IKJJFk594ozSRAVRNgZ-3" parent="1" style="text;whiteSpace=wrap;html=1;" value="Nombre de equipo: DC01&lt;br&gt;S.O: Windows Server 2022&lt;br&gt;Servicios:&amp;nbsp;&lt;div&gt;-&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;Active Directory Domain Services (AD DS)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;- DNS:&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;DNS (resolución del dominio)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;IP: 192.168.100.10 (estática)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="240" x="150" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="7IKJJFk594ozSRAVRNgZ-4" parent="1" style="text;whiteSpace=wrap;html=1;" value="Nombre de equipo: PC01&lt;br&gt;S.O: Windows 10 Pro&lt;br&gt;IP: DHCP" vertex="1">
+          <mxGeometry height="70" width="140" x="420" y="276" as="geometry" />
+        </mxCell>
+        <mxCell id="7IKJJFk594ozSRAVRNgZ-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="7IKJJFk594ozSRAVRNgZ-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="240" y="234.5" as="sourcePoint" />
+            <mxPoint x="300" y="234.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7IKJJFk594ozSRAVRNgZ-6" parent="1" style="text;whiteSpace=wrap;html=1;" value="Servidor" vertex="1">
+          <mxGeometry height="30" width="60" x="190" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7IKJJFk594ozSRAVRNgZ-7" parent="1" style="text;whiteSpace=wrap;html=1;" value="PC Usuario" vertex="1">
+          <mxGeometry height="30" width="80" x="430" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7IKJJFk594ozSRAVRNgZ-8" parent="1" style="text;whiteSpace=wrap;html=1;" value="Red NAT/LAN" vertex="1">
+          <mxGeometry height="30" width="80" x="300" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="7IKJJFk594ozSRAVRNgZ-10" parent="1" style="text;whiteSpace=wrap;html=1;" value="Dominio: darkzone.cl" vertex="1">
+          <mxGeometry height="30" width="130" x="285" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
