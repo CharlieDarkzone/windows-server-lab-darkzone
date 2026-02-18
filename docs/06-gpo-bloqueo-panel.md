@@ -124,7 +124,7 @@ GPO - Bloqueo Panel de Control
 
 aparece dentro de las políticas aplicadas al usuario.
 
-📸 Captura 4:
+📸 **Captura 4:**
 
 ![Resultado GPO](images/gpo-bloqueo-panel/gpresult.png)
 
