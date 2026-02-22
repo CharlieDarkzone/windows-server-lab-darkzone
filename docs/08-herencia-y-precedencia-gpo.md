@@ -144,6 +144,7 @@ En PC01 se ejecutó:
 ```cmd
 gpupdate /force
 gpresult /r
+```
 
 Se verificó que:
 
@@ -151,8 +152,9 @@ Las GPO heredadas aparecen listadas.
 
 La GPO de la OU inferior tiene prioridad.
 
-📸 Captura 4:
+📸 **Captura 4:**
 
+![Resultado GP](images/herencia-precedencia-gpo/gpresult.png)
 
 ✅ Resultado
 
