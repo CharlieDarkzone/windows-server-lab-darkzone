@@ -36,9 +36,9 @@ este enfoque no es sostenible.
 Se implementó un modelo basado en grupos de seguridad:
 
 
----GRP_TI
+GRP_TI
 GRP_CALLCENTER
----
+
 
 Las GPO se aplican mediante:
 
@@ -46,7 +46,7 @@ Las GPO se aplican mediante:
 - Filtrado de seguridad por grupo.
 🏗️ Arquitectura implementada
 
----
+
 darkzone.cl
  └── Darkzone
       ├── Usuarios
@@ -55,7 +55,6 @@ darkzone.cl
       └── Grupos
            ├── GRP_TI
            └── GRP_CALLCENTER
----
 
 Las políticas se asignan según rol:
 
