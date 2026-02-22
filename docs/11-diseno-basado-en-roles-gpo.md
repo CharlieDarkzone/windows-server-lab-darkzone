@@ -36,8 +36,8 @@ este enfoque no es sostenible.
 Se implementó un modelo basado en grupos de seguridad:
 
 
-GRP_TI
-GRP_CALLCENTER
+- GRP_TI
+- GRP_CALLCENTER
 
 
 Las GPO se aplican mediante:
@@ -47,14 +47,16 @@ Las GPO se aplican mediante:
 🏗️ Arquitectura implementada
 
 
+```
 darkzone.cl
- └── Darkzone
-      ├── Usuarios
-      ├── Equipos
-      ├── Servidores
-      └── Grupos
-           ├── GRP_TI
-           └── GRP_CALLCENTER
+└── Darkzone
+    ├── Usuarios
+    ├── Equipos
+    ├── Servidores
+    └── Grupos
+        ├── GRP_TI
+        └── GRP_CALLCENTER
+```
 
 Las políticas se asignan según rol:
 
