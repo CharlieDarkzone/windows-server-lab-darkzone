@@ -94,7 +94,7 @@ se ejecutó:
 
 ```cmd
 gpupdate /force
-
+```
 
 Esto fuerza la actualización inmediata
 de las políticas de grupo.
@@ -109,8 +109,9 @@ cmd
 El sistema mostró un mensaje indicando
 que el acceso fue restringido por el administrador.
 
-📸 Captura 3:
+📸 **Captura 3:**
 
+![Bloqueo Cliente CMD](images/gpo-bloqueo-cmd/bloqueo-cliente.png)
 
 🔎 Verificación técnica con gpresult
 
@@ -127,8 +128,9 @@ GPO - Bloqueo CMD
 
 aparece dentro de las políticas aplicadas al usuario.
 
-📸 Captura 4:
+📸 **Captura 4:**
 
+![Resultado GP](images/gpo-bloqueo-cmd/gpresult.png)
 
 ✅ Resultado
 
