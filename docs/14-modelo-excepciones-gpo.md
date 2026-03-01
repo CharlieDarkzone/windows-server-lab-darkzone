@@ -16,13 +16,13 @@ Filtrada a: `Equipos-Callcenter`
 
 Configuración aplicada:
 
-
+---
 Computer Configuration
 └── Administrative Templates
 └── System
 └── Removable Storage Access
 └── All Removable Storage classes: Deny all access
-
+---
 
 Esta GPO establece el bloqueo total de dispositivos USB para equipos del Callcenter.
 
