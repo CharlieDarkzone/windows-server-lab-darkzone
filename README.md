@@ -96,3 +96,11 @@ Proyecto personal con fines educativos, orientado al aprendizaje de:
 - Infraestructura Windows
 - Active Directory
 - Buenas prácticas de documentación técnica
+
+## 🔄 Continuación
+
+Este laboratorio continúa en:
+
+👉 darkzone-infrastructure-lab
+
+donde se abordan temas de infraestructura empresarial avanzada.
